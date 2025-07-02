@@ -29,7 +29,7 @@ A Retrieval-Augmented Generation (RAG) based Question Answering assistant built 
 
 ## ⚙️ How to Run
 
-1. Launch the notebook (`expert_qa_insurellm.ipynb`), run all cells sequentially.
+1. Launch the notebook (`expert_knowledge_worker.ipynb`), run all cells sequentially.
 2. Input a question when prompted and receive an answer with a rating option.
 
 ---
