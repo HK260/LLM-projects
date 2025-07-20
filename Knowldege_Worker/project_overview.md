@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Expert Knowledge Worker – QA Assistant for Insurellm
 
 A Retrieval-Augmented Generation (RAG) based Question Answering assistant built for _Insurellm_, an insurance tech company. This system uses a local LLM to accurately respond to user queries based on a custom markdown document knowledge base — all implemented in a Jupyter notebook for flexibility and rapid experimentation.
@@ -39,4 +38,7 @@ A Retrieval-Augmented Generation (RAG) based Question Answering assistant built 
 - ⏱️ **Average Response Time:** \~5 seconds per query (local inference)
 - 📚 **Document Base:** 31 markdown files
 - ⭐ **User Ratings:** Collected (1–5 scale) per query to support future accuracy tracking
+
+```
+
 ```

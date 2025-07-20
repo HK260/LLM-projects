@@ -192,3 +192,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# === Project-specific ignores ===
+
+# Ignore generated vectorstore files (e.g. Chroma, FAISS, etc.)
+Best Deal Finder/products_vectorstore/
+
+# Ignore large binary/model files (optional - only if you don’t want to version them)
+*.bin
+*.pkl
+*.sqlite3
+
+# Ignore Modal volumes or runtime data (if any)
+volumes/
