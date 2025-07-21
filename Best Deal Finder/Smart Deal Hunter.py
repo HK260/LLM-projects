@@ -134,7 +134,7 @@ class App:
                 self.get_agent_framework().planner.messenger.alert(opportunity)
         
             with gr.Row():
-                gr.Markdown('<div style="text-align: center;font-size:24px"><strong>The Price is Right</strong> - Autonomous Agent Framework that hunts for deals</div>')
+                gr.Markdown('<div style="text-align: center;font-size:24px"><strong>Smart Deal Hunter</strong> - Autonomous Agent Framework that hunts for deals</div>')
             with gr.Row():
                 gr.Markdown('<div style="text-align: center;font-size:14px">A proprietary fine-tuned LLM deployed on Modal and a RAG pipeline with a frontier model collaborate to send push notifications with great online deals.</div>')
             with gr.Row():
